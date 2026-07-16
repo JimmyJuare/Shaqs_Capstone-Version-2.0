@@ -7,7 +7,6 @@
 
 ## Live Dashboard
 https://app.powerbi.com/links/Ll1xeGrqDI?ctid=bbce5c37-f181-4d0c-9310-7f877336e1cf&pbi_source=linkShare
-# Shaqs\_Capstone-Version-2.0
 
 
 
@@ -79,11 +78,12 @@ Power BI slicers make it easy to compare in-store vs. online performance, exposi
 
 **Repository Contents**
 
-•	CapStone 1 Presentation.odp – Shaq's Original Capstone
+•	shaqs_capstone_1.odp – Shaq's Original Capstone
 
-•	Shaqs\_Capstone-Version-2.0.pbix – Enhanced Power BI Dashboard
 
-•	Published Dashboard: https://app.powerbi.com/groups/me/reports/f33b308e-3a64-4730-a703-cf4d9be5c109/6ffe70869669454cad8b…
+•	Shaqs_Capstone_Version_2.0.pbix – Final enhanced Power BI Dashboard
+
+•	Published Dashboard: https://app.powerbi.com/links/Ll1xeGrqDI?ctid=bbce5c37-f181-4d0c-9310-7f877336e1cf&pbi_source=linkShare
 
 •	README.md – Project Documentation
 
