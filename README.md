@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Shaqs Capstone – Version 2.0
 
 ## Key Features / Enhancements in Version 2.0
@@ -7,8 +6,7 @@
 - Performance improvements, etc.
 
 ## Live Dashboard
-https://app.powerbi.com/groups/me/reports/f33b308e-3a64-4730-a703-cf4d9be5c109/6ffe70869669454cad8b?experience=power-bi
-=======
+https://app.powerbi.com/links/Ll1xeGrqDI?ctid=bbce5c37-f181-4d0c-9310-7f877336e1cf&pbi_source=linkShare
 # Shaqs\_Capstone-Version-2.0
 
 
@@ -91,4 +89,3 @@ Power BI slicers make it easy to compare in-store vs. online performance, exposi
 
 
 
->>>>>>> 1b390a98126de27093b72971d03bc099e93cd943
