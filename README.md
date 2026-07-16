@@ -25,11 +25,8 @@ EmporiUm sells textbooks, technology, art supplies, and merchandise both in-stor
 **Summary of Version 1 (SQL + Excel)**
 
 •	Maryland shows strong seasonal peaks, especially in November.
-
 •	IT products dominate revenue.
-
 •	Store performance is uneven, with one store heavily outperforming the rest.
-
 •	Online sales lag behind in-store sales.
 
 
@@ -43,15 +40,10 @@ EmporiUm sells textbooks, technology, art supplies, and merchandise both in-stor
 The new dashboard reveals:
 
 •	Maryland contributes 39% of Northeast revenue.
-
 •	KPIs: 92K transactions, $140 AOV, 9 stores.
-
 •	Online sales underperform across all categories.
-
 •	North Harford generates $8.7M, far above other stores.
-
 •	Tech products lead regional performance.
-
 •	Maryland’s national share: 11% online vs. 89% in-store.
 
 Power BI slicers make it easy to compare in-store vs. online performance, exposing gaps and opportunities not visible in Excel.
@@ -61,9 +53,7 @@ Power BI slicers make it easy to compare in-store vs. online performance, exposi
 **Final Recommendations (Version 2.0)**
 
 1\.	Launch a Maryland online push focused on tech, where digital demand already exists.
-
 2\.	Diversify beyond North Harford by piloting its successful model in 2–3 additional stores.
-
 3\.	Use Power BI continuously to monitor category and channel performance.
 
 
@@ -71,11 +61,8 @@ Power BI slicers make it easy to compare in-store vs. online performance, exposi
 **Repository Contents**
 
 •	CapStone 1 Presentation.odp – Shaq's Original Capstone
-
 •	Shaqs\_Capstone-Version-2.0.pbix – Enhanced Power BI Dashboard
-
 •	Published Dashboard: https://app.powerbi.com/groups/me/reports/f33b308e-3a64-4730-a703-cf4d9be5c109/6ffe70869669454cad8b…
-
 •	README.md – Project Documentation
 
 
